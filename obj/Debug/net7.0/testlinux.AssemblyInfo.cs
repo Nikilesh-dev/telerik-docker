@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("testlinux")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88b894b9ada6f0388239fc6a02e9bc8a16cbfebc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9722b5c0233215e856bb855214069d3240449ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("testlinux")]
 [assembly: System.Reflection.AssemblyTitleAttribute("testlinux")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
